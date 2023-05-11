@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/marcosdb/">
         <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/marcosdb&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
     </a>
-    <a href="malito:marcos.daniel.bezerra@gmail.com">
+    <a href="mailto:marcos.daniel.bezerra@gmail.com">
         <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=marcos.daniel.bezerra@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
     </a>
     
